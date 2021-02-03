@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cordova-common": "^4.0.2"
+  },
+  "devDependencies": {
+    "cordova-android": "^9.0.0",
+    "cordova-plugin-browsertab": "^0.1.1",
+    "cordova-plugin-compat": "^1.2.0",
+    "cordova-plugin-inappbrowser": "^1.7.2"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-browsertab": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
